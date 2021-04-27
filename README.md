@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=snix0.vizitor_badge)
-
 <!--
 **snix0/snix0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
